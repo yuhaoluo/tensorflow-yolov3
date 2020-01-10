@@ -1,0 +1,3 @@
+/home/luoyuhao/Tools/yolov3/tensorflow-yolov3/data/images/dog.jpg 10,10,100,100,1 
+/home/luoyuhao/Tools/yolov3/tensorflow-yolov3/data/images/kite.jpg 50,50,300,300,2
+/home/luoyuhao/Tools/yolov3/tensorflow-yolov3/data/images/messi.jpg 70,70,300,300,3 100,100,400,400,4
