@@ -1,6 +1,8 @@
 
 ## fork from  https://github.com/YunYang1994/tensorflow-yolov3
-## add tf.data to processing training data, new files:lyhdata.py  train_tfdata.py
+## Update
+Add tf.data to processing training data in file lyhdata.py, and use tf.data in new training file train_tfdata.py,
+it can speed up training compare with the origin train.py when use a large batch size(etc 4,8 or large depends on your GPU)
 ## 
 ## 🆕 Are you looking for a new YOLOv3 implemented by TF2.0 ?
 
